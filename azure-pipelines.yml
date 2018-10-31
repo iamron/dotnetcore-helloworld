@@ -8,7 +8,7 @@ pool:
 
 variables:
   buildConfiguration: 'Release'
-  azureSubscription: 'AzureConnection'
+  azureSubscription: 'azureSubscription: 'Service connection: Serko DevOps by Service Principal''
   webAppName: 'serko-testcase'
   
 steps:
